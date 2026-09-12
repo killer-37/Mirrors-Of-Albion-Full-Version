@@ -240,4 +240,4 @@ This repository serves as the official landing page for *Mirrors of Albion*. The
 **Get the most recent version of *Mirrors of Albion* today!**
 
 ---
-**Last updated:** 2026-09-12 15:59:44 UTC
+**Last updated:** 2026-09-12 18:17:46 UTC
